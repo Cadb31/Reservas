@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.home.reservas.DetalleReservaActivity"/>
+      <point      
+        x = "2620"      
+        y = "48"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.home.reservas.ListaActivity"/>
+      <point      
+        x = "1748"      
+        y = "40"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.home.reservas.GoogleLoginActivity"/>
+      <point      
+        x = "904"      
+        y = "32"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.home.reservas.LoginActivity"/>
+      <point      
+        x = "48"      
+        y = "28"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.home.reservas.InsertarReservaActivity"/>
+      <point      
+        x = "3480"      
+        y = "48"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
